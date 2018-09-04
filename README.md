@@ -1,1 +1,1 @@
-# favorite-things
+# FavoriteThings
